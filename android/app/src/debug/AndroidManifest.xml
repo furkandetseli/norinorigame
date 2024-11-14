@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- AdMob uygulama ID'si -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5423156413875549~4372489347"/>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

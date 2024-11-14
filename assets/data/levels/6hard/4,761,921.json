@@ -1,0 +1,11 @@
+{
+  "levels": [
+    {
+      "id": "4,761,921",
+      "size": 6,
+      "difficulty": "hard",
+      "horizontalBorders": "010011100100111010011101100110",
+      "verticalBorders": "010101100001110000011101101100"
+    }
+  ]
+}
